@@ -1,0 +1,289 @@
+{
+    "2D": {
+        "indexOrder":1,
+        "numberOfTab":1,
+        "contents": {
+            "circleNormal": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleNormal.png", 
+                "tabIndex": 1,
+                "layoutIndex": 1
+            },
+            "circleCross": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleCross.png", 
+                "tabIndex": 1,
+                "layoutIndex": 2
+            },
+            "circleWave": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleWave.png", 
+                "tabIndex": 1,
+                "layoutIndex": 3
+            },
+            "circleHalf": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleHalf.png", 
+                "tabIndex": 1,
+                "layoutIndex": 4
+            },
+            "circleQuarter": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleQuarter.png", 
+                "tabIndex": 1,
+                "layoutIndex": 5
+            },
+            "circleDoubleHalf": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleDoubleHalf.png", 
+                "tabIndex": 1,
+                "layoutIndex": 6
+            },
+            "circleDoubleQuarter": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleDoubleQuarter.png", 
+                "tabIndex": 1,
+                "layoutIndex": 7
+            },
+            "square01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/square01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 8
+            },
+            "squareX01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/squareX01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 9
+            },
+            "square02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/square02.png", 
+                "tabIndex": 1,
+                "layoutIndex": 10
+            },
+            "triangle02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/triangle02.png", 
+                "tabIndex": 1,
+                "layoutIndex":11
+            },
+            "triangle01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/triangle01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 12
+            },
+            "cross01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/cross01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 13
+            },
+            "cross02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/cross02.png", 
+                "tabIndex": 1,
+                "layoutIndex": 14
+            },
+            "hexagonA": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/squareX01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 15
+            },
+            "starA": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/starA.png", 
+                "tabIndex": 1,
+                "layoutIndex": 16
+            },
+            "nail01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/triangle02.png", 
+                "tabIndex": 1,
+                "layoutIndex":17
+            },
+            "face01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/face01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 18
+            },
+            "foot01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/foot01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 19
+            },
+            "eyes01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/eyes01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 20
+            }
+        }
+    },
+    
+    "3D": {
+        "indexOrder":2,
+        "numberOfTab":1,
+        "contents": {
+            "ball01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/ball01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 1
+            },
+            "sphereArrow02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/sphereArrow02.png", 
+                "tabIndex": 1,
+                "layoutIndex": 2
+            },
+            "ballHalf": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/ballHalf.png", 
+                "tabIndex": 1,
+                "layoutIndex": 3
+            },
+            "circleDir": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/2d/circleDir.png", 
+                "tabIndex": 1,
+                "layoutIndex": 4
+            },
+            "cube01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/cube01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 5
+            },
+            "cylinder01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/cylinder01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 6
+            },
+            "cylinder02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/cylinder02.png", 
+                "tabIndex": 1,
+                "layoutIndex": 7
+            },
+            "cylinder03": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/cylinder03.png", 
+                "tabIndex": 1,
+                "layoutIndex": 8
+            },
+            "pyramid01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/pyramid01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 9
+            },
+            "pyramidHalf01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/pyramidHalf01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 10
+            },
+            "rumbus01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/rumbus01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 11
+            },
+            "cone01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/cone01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 12
+            },
+            "sphereArrow01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/sphereArrow01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 13
+            },
+            "locatorArrow01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/locatorArrow01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 14
+            },
+            "capsule01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/capsule01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 15
+            },
+            "chestBox": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/3d/chest01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 16
+            }
+
+        }
+    },
+    
+    "Direction": {
+        "indexOrder":3,
+        "numberOfTab":1,
+        "contents": {
+            "arrow01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrow01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 1
+            },
+            "arrowBoth01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowBoth01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 2
+            },
+            "arrowAll02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowAll02.png", 
+                "tabIndex": 1,
+                "layoutIndex": 3
+            },
+            "arrow03": {
+                    "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrow03.png", 
+                    "tabIndex": 1,
+                    "layoutIndex": 4
+            },
+            "arrowBoth03": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowBoth03.png", 
+                "tabIndex": 1,
+                "layoutIndex": 5
+            },
+            "arrowAll03": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowAll03.png", 
+                "tabIndex": 1,
+                "layoutIndex": 6
+            },
+            "arrowCircle01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircle01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 7
+            },
+            "arrowCircle02": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircle02.png", 
+                "tabIndex": 1,
+                "layoutIndex": 8
+            },
+            "arrowCircle04": {
+                    "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircle04.png", 
+                    "tabIndex": 1,
+                    "layoutIndex": 9
+            },
+            "arrowCircle10": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircle10.png", 
+                "tabIndex": 1,
+                "layoutIndex": 10
+            },
+            "arrow04": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrow04.png", 
+                "tabIndex": 1,
+                "layoutIndex": 11
+            },
+            "arrow05": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrow05.png", 
+                "tabIndex": 1,
+                "layoutIndex": 12
+            },
+            "arrowCircle06": {
+                    "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircle06.png", 
+                    "tabIndex": 1,
+                    "layoutIndex": 13
+            },
+            "arrowAll04": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowAll04.png", 
+                "tabIndex": 1,
+                "layoutIndex": 14
+            },
+            "arrowCircleBoth01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircleBoth01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 15
+            },
+            "arrowCircleBoth02": {
+                    "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowCircleBoth02.png", 
+                    "tabIndex": 1,
+                    "layoutIndex": 16
+            },
+            "arrowSquere01": {
+                "path": "/Users/George/Library/Preferences/Autodesk/maya/GitHub/maglev/maglev/tools/create/ctrlLibrary/icon/controller/direction/arrowSquere01.png", 
+                "tabIndex": 1,
+                "layoutIndex": 17
+            }
+
+        }
+    }
+}
